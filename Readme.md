@@ -23,5 +23,7 @@ This app helps users calculate tip amount and total bill quickly.
 
 ## 📸 Screenshots
 
-![Tip Calculator Screenshot](Tip Calculator.png)
+### Home Page 
+
+![Tip Calculator Screenshot](TipCalculator.png)
 
