@@ -68,8 +68,7 @@ button {
     width: 100%;
   }
   .navbar {
-    padding: 20px;
-    width: 480px;
+    padding-left: 20px;
   }
   button {
     width: 100%;
