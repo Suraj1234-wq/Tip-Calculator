@@ -23,5 +23,5 @@ This app helps users calculate tip amount and total bill quickly.
 
 ## 📸 Screenshots
 
-![Age Converter Screenshot](Tip Calculator.png)
+![Tip Calculator Screenshot](Tip Calculator.png)
 
