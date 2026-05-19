@@ -14,7 +14,7 @@ body {
 }
 
 .navbar{
-  width: 80vh;
+  width: 70vh;
   background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1));
   border-radius: 1.5rem;
   text-align: center;
@@ -69,12 +69,14 @@ button {
   }
   .navbar {
     padding-left: 20px;
+    width: 66.5%;
   }
   button {
     width: 100%;
   }
   #result {
-    background-color: white;
+    /* background-color: white; */
+    color: white;
   }
 
   .para {
