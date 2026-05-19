@@ -85,9 +85,10 @@ button {
   }
 
   .nav {
-    /* padding: 10px; */
+    padding: 30px;
     display: flex;
     justify-content: center;
+    /* background-color: red; */
 
     }
 
