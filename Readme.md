@@ -20,3 +20,8 @@ This app helps users calculate tip amount and total bill quickly.
 - HTML
 - JavaScript
 - CSS
+
+## 📸 Screenshots
+
+![Age Converter Screenshot](Tip Calculator.png)
+

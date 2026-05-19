@@ -13,9 +13,9 @@ body {
   align-items: center;
 }
 
-.navbar{
+.navbar {
   width: 70vh;
-  background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1));
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1));
   border-radius: 1.5rem;
   text-align: center;
   padding: 10px;
@@ -24,7 +24,7 @@ h2 {
   font-size: 30px;
   margin-top: 20px;
 }
-p{
+p {
   margin-top: 20px;
 }
 .navbar input {
@@ -47,14 +47,12 @@ p{
 button {
   height: 40px;
   width: 80%;
-   border-radius: 0.5rem;
-   background-color: #006666;
-   color: white;
-   font-size: 20px;
-   margin-top: 20px;
-   cursor: pointer;
-  
-  
+  border-radius: 0.5rem;
+  background-color: #006666;
+  color: white;
+  font-size: 20px;
+  margin-top: 20px;
+  cursor: pointer;
 }
 #result {
   margin-right: 200px;
@@ -62,7 +60,6 @@ button {
   font-size: 22px;
   font-weight: 600;
 }
-
 
 @media (max-width: 768px) {
   .navbar input {
@@ -80,16 +77,10 @@ button {
     color: white;
   }
 
-  .para {
-    margin-left: 0;
-  }
-
   .nav {
     padding: 30px;
     display: flex;
     justify-content: center;
     /* background-color: red; */
-
-    }
-
   }
+}
