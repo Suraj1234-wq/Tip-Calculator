@@ -63,6 +63,7 @@ button {
   font-weight: 600;
 }
 
+
 @media (max-width: 768px) {
   .navbar input {
     width: 100%;
@@ -82,5 +83,10 @@ button {
   .para {
     margin-left: 0;
   }
+
+  .nav {
+    padding: 30px;
+    
+    }
 
   }
